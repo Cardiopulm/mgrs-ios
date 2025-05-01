@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: name: "MGRS",
+    name: "MGRS",
     platforms: [
         .iOS(.v11),
         .macOS(.v10_12)
